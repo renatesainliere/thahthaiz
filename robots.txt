@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feecaethi.callcenter114.com/sitemap.xml
